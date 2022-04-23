@@ -28,9 +28,11 @@ Linux için :
 ---
 
 
+
 ## Contributing
 
 Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi istediğinizi tartışmak için bir konu açınız.
+
 
 
 ---
