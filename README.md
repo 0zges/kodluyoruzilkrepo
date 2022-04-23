@@ -11,7 +11,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/)    Front-End eğitiminde oluş
 
 ## Usage
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
-Linux için : * ['cd kodluyoruzilkrepocode']
+Linux için : 
+ ['cd kodluyoruzilkrepocode']
 
 ---
 
