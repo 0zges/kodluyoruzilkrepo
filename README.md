@@ -8,7 +8,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/)    Front-End eğitiminde oluş
 
 ## Installation
 
-Öncelikle projeyi clonlayın.(https://github.com/0zges/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın.
+
+    git clone (https://github.com/0zges/kodluyoruzilkrepo.git)
 
 
 ---
@@ -36,7 +38,7 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi is
 
 ## License
 
-    [MIT](https://choosealicense.com/licenses/mit/)
+ [MIT](https://choosealicense.com/licenses/mit/)
 
 
 
